@@ -1,5 +1,5 @@
 {
-  "name": "prism-react-renderer",
+  "name": "@kiwicopple/prism-react-renderer",
   "version": "1.0.2",
   "description": "Renders highlighted Prism output using React",
   "sideEffects": false,
